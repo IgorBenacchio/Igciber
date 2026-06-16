@@ -10,7 +10,7 @@ This review covers what can be checked through the available GitHub integration 
 | --- | --- | --- | --- |
 | Connected account | The connected account appears as `IgorBenacchio` | Low | Use `IgorBenacchio` consistently in public links |
 | Visible repository | `IgorBenacchio/Igciber` is public | Low | Keep public only if content is intentional and sanitized |
-| Profile README repository | Repository is named `Igciber`, not `IgorBenacchio` | Medium | For GitHub profile README rendering, create or rename to `IgorBenacchio/IgorBenacchio` |
+| Profile README rendering | Repository is named `Igciber`, not `IgorBenacchio` | Medium | For automatic GitHub profile README rendering, create or rename a public repository to `IgorBenacchio/IgorBenacchio` |
 | Organizations | No organizations found via connector | Low | No org membership risk identified via available access |
 | GitHub App installation | GitHub app is installed on the user account | Medium | Review installed app permissions in GitHub settings periodically |
 | Secret scan via repository search | No obvious credential keyword hits found in accessible repository search | Low | Still enable GitHub secret scanning/push protection where available |
@@ -18,7 +18,15 @@ This review covers what can be checked through the available GitHub integration 
 
 ## Public Information Review
 
-The public profile material is aligned with recruiter validation for cybersecurity, cloud security, DevSecOps, IAM, AppSec, GRC, SOC, AI governance, technology architecture and automation. Public content is written as defensive and sanitized.
+The public repository material is aligned with recruiter validation for cybersecurity, cloud security, DevSecOps, IAM, AppSec, GRC, SOC, AI governance, technology architecture and automation. Public content is defensive and sanitized.
+
+Current recruiter-ready repository:
+
+`https://github.com/IgorBenacchio/Igciber`
+
+Current GitHub account:
+
+`https://github.com/IgorBenacchio`
 
 ## Manual Security Checklist
 
@@ -68,19 +76,23 @@ Review these settings directly in GitHub:
 
 ### Recruiter Presentation
 
-- [ ] Rename or create the profile README repository as `IgorBenacchio/IgorBenacchio`.
-- [ ] Publish the portfolio repository as `cybersecurity-ai-technology-portfolio`.
-- [ ] Pin the portfolio repository on the GitHub profile.
-- [ ] Ensure all public links use the same GitHub username.
+- [ ] Create or rename the GitHub Profile README repository as `IgorBenacchio/IgorBenacchio` if you want this README to appear automatically on the account profile page.
+- [ ] Pin the current recruiter-ready repository `IgorBenacchio/Igciber` on the GitHub profile.
+- [ ] If you create a dedicated full portfolio repository later, use `cybersecurity-ai-technology-portfolio`.
+- [ ] Ensure all public links use `IgorBenacchio` consistently.
 
 ## Recommended Account Bio
 
 Cybersecurity, AI Governance, Cloud Security, DevSecOps, IAM, AppSec, GRC, Technology Architecture and Automation.
 
-## Recommended Public Portfolio Repository
+## Recommended Public Recruiter Link
+
+`https://github.com/IgorBenacchio/Igciber`
+
+## Recommended Future Portfolio Repository
 
 `cybersecurity-ai-technology-portfolio`
 
 ## Final Security Verdict
 
-No exposed secrets were identified through the available repository search. The main improvement is account hygiene review in GitHub settings and consistency of public identity: use `IgorBenacchio` consistently or intentionally configure the profile around the username you want recruiters to use.
+No exposed secrets were identified through the available repository search. The main remaining improvement is account hygiene review in GitHub settings and GitHub Profile README rendering: create or rename the special profile repository to `IgorBenacchio/IgorBenacchio` if you want this content to appear automatically at the top of the GitHub profile.
