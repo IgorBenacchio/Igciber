@@ -16,6 +16,8 @@ Recommended portfolio URL:
 
 `https://github.com/Igciber/cybersecurity-ai-technology-portfolio`
 
+For international opportunities, start with the [Multinational Recruiter Brief](MULTINATIONAL-RECRUITER-BRIEF.md).
+
 ## International Recruiter Snapshot
 
 | Recruiter question | Fast answer |
@@ -42,9 +44,9 @@ Recommended portfolio URL:
 | Time | What to open | What to validate |
 | --- | --- | --- |
 | 30 sec | This README | Positioning, target roles and international fit |
+| 1 min | [Multinational Recruiter Brief](MULTINATIONAL-RECRUITER-BRIEF.md) | One-page fit for international opportunities |
 | 1 min | [Portfolio Summary](PORTFOLIO.md) | Skills mapped to portfolio evidence |
 | 1 min | [Recruiter Validation Guide](RECRUITER-VALIDATION.md) | Role fit and seniority signals |
-| 1 min | [Profile Recruiter Checklist](PROFILE-RECRUITER-CHECKLIST.md) | Public-readiness and recruiter checklist |
 | 1 min | Pinned portfolio repository | Project READMEs, templates, matrices, playbooks and defensive examples |
 
 ## Target Roles
@@ -108,6 +110,7 @@ Perfil voltado para oportunidades nacionais e internacionais em Cybersecurity, S
 
 ## Profile Documents
 
+- [Multinational Recruiter Brief](MULTINATIONAL-RECRUITER-BRIEF.md)
 - [Portfolio Summary](PORTFOLIO.md)
 - [Recruiter Validation Guide](RECRUITER-VALIDATION.md)
 - [Profile Recruiter Checklist](PROFILE-RECRUITER-CHECKLIST.md)
