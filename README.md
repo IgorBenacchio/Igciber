@@ -4,17 +4,38 @@
 
 I connect business risk, security architecture, governance and technology delivery through defensive security practices, enterprise-ready documentation, automation and responsible AI controls.
 
-Sou profissional de tecnologia e segurança da informação com foco em conectar risco, arquitetura, governança e entrega tecnológica. Atuo com segurança defensiva, arquitetura corporativa, cloud security, identidade, entrega segura, IA responsável e automação.
+Sou profissional de tecnologia e segurança da informação com foco em conectar risco, arquitetura, governança e entrega tecnológica para ambientes corporativos, financeiros, telecom e consultoria.
+
+## Portfolio for Recruiters
+
+Main portfolio repository to pin and review:
+
+`cybersecurity-ai-technology-portfolio`
+
+Recommended portfolio URL:
+
+`https://github.com/Igciber/cybersecurity-ai-technology-portfolio`
 
 ## International Recruiter Snapshot
 
 | Recruiter question | Fast answer |
 | --- | --- |
-| What roles does this profile support? | Security Architect, Cloud Security Specialist, DevSecOps, IAM, AppSec, GRC, SOC, AI Security, AI Governance, Data Governance, Technology Architect and Automation roles |
-| What makes the profile different? | It translates security and technology experience into recruiter-validatable evidence, not only keywords |
-| Is the material enterprise-ready? | Yes. It emphasizes governance, risk, controls, evidence, architecture and executive communication |
-| Is the content safe for public review? | Yes. It is defensive, sanitized and free from confidential data, credentials, real IPs or internal company information |
-| Is it suitable for multinational opportunities? | Yes. The profile is English-first, role-mapped and aligned with global cybersecurity and AI governance terminology |
+| Target roles | Security Architect, Cloud Security Specialist, DevSecOps, IAM, AppSec, GRC, SOC, AI Security, AI Governance, Technology Architect |
+| Differentiator | I translate security and technology experience into recruiter-validatable evidence, not only keywords |
+| Enterprise value | Governance, risk, controls, evidence, architecture, automation and executive communication |
+| Public safety | Defensive, sanitized material with no confidential data, credentials, real IPs or internal company information |
+| International fit | English-first profile aligned with global cybersecurity, cloud and AI governance terminology |
+
+## What I Bring
+
+| Capability | Evidence |
+| --- | --- |
+| Risk-based security architecture | Security by Design, risk matrix, control mapping and security opinion templates |
+| Cloud and identity security | Azure landing zone, RBAC, Conditional Access, IAM, Zero Trust and access review patterns |
+| Secure delivery | DevSecOps pipeline, Secure SDLC, SAST/SCA/secret scanning concepts and API security controls |
+| Governance and compliance | GRC dashboard, audit evidence, risk reporting and control maturity views |
+| AI security and governance | Responsible AI, AI inventory, secure RAG, LLM risk, model card and secure MLOps lifecycle |
+| Data and automation | Data governance, analytics security, Python and PowerShell examples with fictional data |
 
 ## 5-Minute Validation Path
 
@@ -39,25 +60,9 @@ Sou profissional de tecnologia e segurança da informação com foco em conectar
 | AI Security / AI Governance | AI Security Specialist, AI Governance Analyst, Responsible AI Specialist |
 | Technology and Data | Technology Architect, Data Governance Specialist, Automation Specialist |
 
-## Portfolio Evidence by Domain
+## Best Portfolio Modules to Review First
 
-| Area | Evidence demonstrated |
-| --- | --- |
-| Cybersecurity Architecture | Security by Design, risk matrix, security opinion, control mapping |
-| Cloud Security | Secure Azure landing zone, IAM, segmentation, logging and governance |
-| DevSecOps | Secure pipeline, quality gates, scanning workflow and evidence generation |
-| IAM / Zero Trust | RBAC, JML process, least privilege, access review and identity governance |
-| AppSec | API security, authentication, authorization, secure logging and secure design |
-| GRC / Risk / Compliance | Risk dashboard, compliance evidence, executive reporting and control maturity |
-| SOC / SecOps | Incident response playbooks, monitoring concepts and operational workflows |
-| AI Security / AI Governance | Responsible AI, AI inventory, impact assessment, secure RAG and AI evaluation |
-| Secure MLOps | Model lifecycle, approval gates, model registry governance and monitoring |
-| Data Governance | Data classification, ownership, access review, analytics security and quality |
-| Automation | Python and PowerShell examples for reporting, evidence and operations |
-
-## Best Projects to Review First
-
-| Hiring for | Start with these portfolio modules |
+| Hiring for | Start with these modules |
 | --- | --- |
 | Security Architecture | `01-security-by-design-framework`, `14-enterprise-technology-architecture` |
 | Cloud Security | `02-secure-cloud-landing-zone-azure` |
@@ -93,12 +98,7 @@ Sou profissional de tecnologia e segurança da informação com foco em conectar
 
 ## Professional Context
 
-Experience connected to financial services, telecom, consulting, infrastructure, IAM, cloud, DevSecOps, AppSec, GRC and security architecture, including contexts related to:
-
-- Sinqia / BNP Paribas
-- Aquanima / Santander
-- Telefonica Vivo
-- Compass UOL
+Experience connected to financial services, telecom, consulting, infrastructure, IAM, cloud, DevSecOps, AppSec, GRC and security architecture, including contexts related to Sinqia / BNP Paribas, Aquanima / Santander, Telefonica Vivo and Compass UOL.
 
 Public materials are intentionally sanitized. They do not include confidential company information, credentials, tokens, private IPs, internal architecture or sensitive operational data.
 
@@ -114,9 +114,5 @@ Perfil voltado para oportunidades nacionais e internacionais em Cybersecurity, S
 - [LinkedIn and CV Text](LINKEDIN-TEXT.md)
 - [Final Profile Validation](PROFILE-FINAL-VALIDATION.md)
 - [Profile Benchmark Notes](PROFILE-BENCHMARK-NOTES.md)
-
-## Next Step for the Portfolio Repository
-
-Pin the main repository named `cybersecurity-ai-technology-portfolio` so recruiters can open the full project set directly from the profile.
 
 **Building secure, scalable and well-governed technology solutions.**
