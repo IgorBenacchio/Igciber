@@ -1,144 +1,91 @@
-# Hi, I'm Igor Benacchio
+# Igor Benacchio
 
-**Cybersecurity | Security Architecture | AI Governance | Cloud Security | DevSecOps | IAM | AppSec | GRC | Zero Trust | Technology Architecture**
+**Cybersecurity | Security Architecture | Cloud Security | DevSecOps | IAM | AppSec | GRC | SOC | AI Security | AI Governance | Secure LLM/RAG | Secure MLOps | Data Governance | Technology Architecture | Automation**
 
-I am an Information Security and Technology professional focused on designing secure, scalable and well-governed technology solutions. My background combines cybersecurity architecture, cloud security, DevSecOps, IAM, AppSec, GRC, infrastructure security, risk management and secure technology adoption.
+I am a technology and information security professional focused on connecting risk, architecture, governance and delivery. My work is centered on defensive security, enterprise architecture, cloud security, identity, secure software delivery, responsible AI and automation.
 
-I have worked across corporate, financial services, telecommunications and consulting environments, supporting security assessments, architecture decisions, vulnerability management, audit evidence, third-party risk, IAM governance and executive-level security communication.
-
----
-
-## Recruiter Quick Access
-
-If you are a recruiter, hiring manager or technical interviewer, start here:
-
-- [Portfolio Overview](PORTFOLIO.md)
-- [Recruiter Validation Guide](RECRUITER-VALIDATION.md)
-- [Recruiter Guide](RECRUITER-GUIDE.md)
-- [Profile Recruiter Checklist](PROFILE-RECRUITER-CHECKLIST.md)
-- [LinkedIn and CV Text](LINKEDIN-TEXT.md)
-- [Final Profile Validation](PROFILE-FINAL-VALIDATION.md)
-
-Public profile link: [https://github.com/Igciber](https://github.com/Igciber)
-
----
-
-## Professional Focus
-
-- Security Architecture and Security by Design
-- Cloud Security and Azure Security
-- DevSecOps and Secure SDLC
-- IAM, Zero Trust and Access Governance
-- AppSec and API Security
-- GRC, Risk and Compliance
-- SecOps and Security Operations
-- Vulnerability Management
-- AI Governance and Responsible AI
-- Secure AI Architecture
-- Data Governance and Analytics Security
-- Automation with Python, PowerShell and GitHub Actions
-
----
-
-## Featured Portfolio Areas
-
-| Area | Portfolio Focus |
-|---|---|
-| Security by Design | Architecture review, risk matrix, security opinion template and secure design lifecycle |
-| Cloud Security | Azure landing zone, segmentation, IAM, Key Vault, Microsoft security tools and monitoring |
-| DevSecOps | Secure SDLC, automated security checks, secure pipelines and remediation workflows |
-| IAM and Zero Trust | RBAC, MFA, Conditional Access, user lifecycle and least privilege |
-| AppSec and API Security | API security, authentication, authorization, secure logging and secure design patterns |
-| Vulnerability Management | Risk-based prioritization, SLA matrix, remediation workflow and exception process |
-| Security Operations | Security monitoring, event review, playbooks and operational governance |
-| GRC | Control mapping, evidence management, executive reporting and compliance dashboards |
-| AI Governance | AI inventory, risk classification, impact assessment, responsible AI and model governance |
-| Secure AI Architecture | Enterprise AI assistants, access governance, data controls and monitoring |
-| Secure MLOps | Model lifecycle, approval gates, model registry governance and monitoring |
-| Technology Architecture | Enterprise architecture across cloud, data, infrastructure, applications and operations |
-| Data Governance | Data classification, ownership, access review, analytics governance and quality indicators |
-| Automation | Python and PowerShell examples for reporting, evidence collection and IT/security operations |
-
----
-
-## Experience Highlights
-
-- Security Architecture in regulated financial environments.
-- Third-party risk, audit evidence and compliance experience.
-- Cloud Security, Zero Trust and secure architecture design.
-- DevSecOps, Secure SDLC and vulnerability management.
-- IAM governance, access review and least privilege.
-- Infrastructure, monitoring, firewall, backup and hardening background.
-- AI Governance, Responsible AI and secure AI adoption.
-- Technical and executive communication for risk-based decision-making.
-
----
-
-## Tools, Frameworks and Domains
-
-### Security and Governance
-
-ISO 27001 · NIST Cybersecurity Framework · CIS Controls · OWASP · LGPD · PCI DSS concepts · Zero Trust
-
-### Cloud and Microsoft Security
-
-Azure Security · Microsoft Defender for Cloud · Microsoft Sentinel · Azure Key Vault · RBAC · Conditional Access · Log Analytics · Azure Policy
-
-### DevSecOps and AppSec
-
-Secure SDLC · SAST · SCA · Secret scanning · Container security · API Security · OAuth2 · OIDC · JWT · mTLS · GitHub Actions
-
-### AI Governance and Technology
-
-NIST AI Risk Management Framework · NIST Generative AI Profile · ISO/IEC 42001 · Responsible AI · Secure AI adoption · Model lifecycle governance
-
-### Automation and Operations
-
-Python · PowerShell · Bash · Markdown · CSV reporting · Security evidence · Access review · Operational dashboards
-
----
-
-## Current Career Interests
-
-- Security Architect
-- Cybersecurity Specialist
-- Cloud Security Specialist
-- AI Governance Specialist
-- DevSecOps Engineer
-- IAM Specialist
-- AppSec Specialist
-- GRC / Risk & Compliance Specialist
-- Technology Architect
-- Remote or multinational cybersecurity opportunities
-
----
-
-## Sobre mim em português
-
-Sou profissional de Segurança da Informação e Tecnologia com experiência em arquitetura de segurança, cloud security, DevSecOps, IAM, AppSec, GRC, infraestrutura, governança de IA e automação. Meu foco é ajudar empresas a desenhar arquiteturas seguras, reduzir riscos, estruturar controles e conectar segurança técnica com governança e negócio.
-
----
+Sou profissional de tecnologia e segurança da informação com foco em conectar risco, arquitetura, governança e entrega tecnológica. Atuo com segurança defensiva, arquitetura corporativa, cloud security, identidade, entrega segura, IA responsável e automação.
 
 ## Recruiter Quick Validation
 
-If you are a recruiter or hiring manager, this profile demonstrates practical alignment with roles involving cybersecurity architecture, cloud security, DevSecOps, IAM, AppSec, AI governance, risk management and technology architecture.
+| Time | What to check | Evidence |
+| --- | --- | --- |
+| 30 sec | Professional positioning | Security, architecture, governance, AI and automation focus |
+| 1 min | Role alignment | Skills mapped to cybersecurity, cloud, IAM, AppSec, GRC and AI governance |
+| 2 min | Portfolio evidence | Defensive projects, templates, matrices, playbooks and architecture docs |
+| 1 min | Public-readiness | Sanitized examples, no confidential data, no credentials |
 
-Recommended validation path:
+## Portfolio Focus
 
-1. Review the Professional Focus section.
-2. Open the [Portfolio Overview](PORTFOLIO.md).
-3. Match the modules with the target role.
-4. Review the Experience Highlights section.
-5. Validate the frameworks and domains against the job requirements.
+This profile supports recruiter and hiring manager validation for roles in:
 
----
+| Area | Evidence demonstrated |
+| --- | --- |
+| Cybersecurity Architecture | Security by Design, risk matrix, security opinion, control mapping |
+| Cloud Security | Secure Azure landing zone, IAM, segmentation, logging and governance |
+| DevSecOps | Secure pipeline, quality gates, scanning workflow and evidence generation |
+| IAM / Zero Trust | RBAC, JML process, least privilege, access review and identity governance |
+| AppSec | API security, authentication, authorization, secure logging and secure design |
+| GRC / Risk / Compliance | Risk dashboard, compliance evidence, executive reporting and control maturity |
+| SOC / SecOps | Incident response playbooks, monitoring concepts and operational workflows |
+| AI Security / AI Governance | Responsible AI, AI inventory, impact assessment, secure RAG and AI evaluation |
+| Secure MLOps | Model lifecycle, approval gates, model registry governance and monitoring |
+| Data Governance | Data classification, ownership, access review, analytics security and quality |
+| Automation | Python and PowerShell examples for reporting, evidence and operations |
 
-## Links
+## Best Projects to Review First
 
-- GitHub: [github.com/Igciber](https://github.com/Igciber)
-- Portfolio Overview: [PORTFOLIO.md](PORTFOLIO.md)
-- Recruiter Validation: [RECRUITER-VALIDATION.md](RECRUITER-VALIDATION.md)
+| Hiring for | Start with these portfolio modules |
+| --- | --- |
+| Security Architecture | `01-security-by-design-framework`, `14-enterprise-technology-architecture` |
+| Cloud Security | `02-secure-cloud-landing-zone-azure` |
+| DevSecOps / AppSec | `03-devsecops-pipeline-security`, `05-appsec-secure-api-design` |
+| IAM / Zero Trust | `04-iam-zero-trust-access-model` |
+| GRC / Risk / Compliance | `08-grc-risk-compliance-dashboard` |
+| SOC / Incident Response | `07-soc-incident-response-playbooks`, `12-ai-secops-monitoring` |
+| AI Security / AI Governance | `09-ai-governance-responsible-ai`, `10-secure-llm-rag-architecture`, `11-ai-security-evaluation-framework` |
+| Data Governance / Automation | `15-data-governance-analytics`, `16-automation-python-powershell` |
 
----
+## Professional Context
+
+Experience connected to financial services, telecom, consulting, infrastructure, IAM, cloud, DevSecOps, AppSec, GRC and security architecture, including contexts related to:
+
+- Sinqia / BNP Paribas
+- Aquanima / Santander
+- Telefonica Vivo
+- Compass UOL
+
+All public materials are intentionally sanitized. They do not include confidential company information, credentials, tokens, private IPs, internal architecture or sensitive operational data.
+
+## Seniority Signals
+
+| Signal | What it shows |
+| --- | --- |
+| Risk-based thinking | Ability to prioritize controls based on business impact |
+| Architecture judgment | Ability to structure secure technology solutions across domains |
+| Governance maturity | Ability to create evidence, dashboards, policies and validation flows |
+| Security delivery | Ability to embed security into pipelines, APIs, cloud and IAM processes |
+| AI security awareness | Ability to govern and secure LLM/RAG and model lifecycle scenarios |
+| Executive communication | Ability to explain technical risk clearly to non-technical stakeholders |
+
+## Recommended Recruiter Path
+
+1. Review this profile for role alignment.
+2. Open the portfolio repository when available.
+3. Validate 3 projects aligned to the target role.
+4. Check whether each project explains objective, business problem, scope, deliverables, frameworks and recruiter validation points.
+5. Confirm that the material is defensive, public-safe and free from confidential information.
+
+## Current Opportunity Fit
+
+Open to national and international opportunities involving Cybersecurity, Security Architecture, Cloud Security, DevSecOps, IAM, AppSec, GRC, SOC, AI Security, AI Governance, Secure LLM/RAG, Secure MLOps, Data Governance, Technology Architecture and Automation.
+
+## Profile Documents
+
+- [Portfolio Summary](PORTFOLIO.md)
+- [Recruiter Validation Guide](RECRUITER-VALIDATION.md)
+- [Profile Recruiter Checklist](PROFILE-RECRUITER-CHECKLIST.md)
+- [LinkedIn and CV Text](LINKEDIN-TEXT.md)
+- [Final Profile Validation](PROFILE-FINAL-VALIDATION.md)
 
 **Building secure, scalable and well-governed technology solutions.**
