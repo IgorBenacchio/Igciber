@@ -5,11 +5,16 @@
 | Item | Status |
 | --- | --- |
 | GitHub account | `IgorBenacchio` |
-| Current public recruiter-ready repository | `IgorBenacchio/Igciber` |
-| Current repository visibility | Public |
+| Official public portfolio repository | `IgorBenacchio/Igciber` |
+| Official portfolio URL | `https://github.com/IgorBenacchio/Igciber` |
+| Repository visibility | Public |
 | Recruiter validation path included | Complete |
 | Portfolio areas mapped to target roles | Complete |
-| Professional context included | Complete |
+| Project catalog included | Complete |
+| Skills evidence matrix included | Complete |
+| Case studies included | Complete |
+| Interview guide included | Complete |
+| Reusable templates included | Complete |
 | Public safety statement included | Complete |
 | English-first international presentation | Complete |
 | Portuguese context included | Complete |
@@ -24,26 +29,25 @@
 | Does the profile connect cybersecurity, cloud, IAM, GRC, AI and architecture? | Yes |
 | Is the material safe for public review? | Yes |
 | Are public links aligned to the current username `IgorBenacchio`? | Yes |
+| Is `IgorBenacchio/Igciber` treated consistently as the official portfolio? | Yes |
 
 ## Manual GitHub Actions Still Recommended
 
-- [ ] For automatic GitHub profile README rendering, create or rename a public repository to `IgorBenacchio/IgorBenacchio`.
-- [ ] Copy this repository's `README.md` content into `IgorBenacchio/IgorBenacchio/README.md`.
-- [ ] Pin the current recruiter-ready repository `IgorBenacchio/Igciber` on the GitHub profile.
-- [ ] If you later publish the full portfolio repository, use the clean name `cybersecurity-ai-technology-portfolio`.
-- [ ] Add the chosen recruiter-ready GitHub URL to LinkedIn and CV.
+- [ ] Pin the official portfolio repository `IgorBenacchio/Igciber` on the GitHub profile.
+- [ ] Add `https://github.com/IgorBenacchio/Igciber` to LinkedIn and CV.
 - [ ] Review GitHub rendering after changes.
+- [ ] Optional: create the special profile README repository `IgorBenacchio/IgorBenacchio` if you want this README to appear directly on the GitHub profile homepage.
 
 ## Recommended Links for Recruiters
 
-Current recruiter-ready repository:
+Official portfolio repository:
 
 `https://github.com/IgorBenacchio/Igciber`
 
-Current GitHub account:
+GitHub account:
 
 `https://github.com/IgorBenacchio`
 
 ## Final Recruiter Verdict
 
-The public repository is suitable for recruiter validation and supports national and international opportunities in cybersecurity, security architecture, AI governance, cloud security, DevSecOps, IAM, AppSec, GRC, SOC, data governance, technology architecture and automation.
+The public repository `IgorBenacchio/Igciber` is suitable for recruiter validation and supports national and international opportunities in cybersecurity, security architecture, AI governance, cloud security, DevSecOps, IAM, AppSec, GRC, SOC, data governance, technology architecture and automation.
