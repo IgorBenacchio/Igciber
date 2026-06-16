@@ -8,6 +8,7 @@
 | Official public portfolio repository | `IgorBenacchio/Igciber` |
 | Official portfolio URL | `https://github.com/IgorBenacchio/Igciber` |
 | Repository visibility | Public |
+| GitHub profile homepage README | Complete: `GITHUB-PROFILE-HOMEPAGE-README.md` |
 | Recruiter validation path included | Complete |
 | Portfolio areas mapped to target roles | Complete |
 | Project catalog included | Complete |
@@ -30,13 +31,15 @@
 | Is the material safe for public review? | Yes |
 | Are public links aligned to the current username `IgorBenacchio`? | Yes |
 | Is `IgorBenacchio/Igciber` treated consistently as the official portfolio? | Yes |
+| Is there ready-to-use content for the GitHub account homepage? | Yes |
 
 ## Manual GitHub Actions Still Recommended
 
 - [ ] Pin the official portfolio repository `IgorBenacchio/Igciber` on the GitHub profile.
 - [ ] Add `https://github.com/IgorBenacchio/Igciber` to LinkedIn and CV.
 - [ ] Review GitHub rendering after changes.
-- [ ] Optional: create the special profile README repository `IgorBenacchio/IgorBenacchio` if you want this README to appear directly on the GitHub profile homepage.
+- [ ] Optional: create the special profile README repository `IgorBenacchio/IgorBenacchio` if you want the homepage README to appear directly on the GitHub profile homepage.
+- [ ] Optional: copy the content from `GITHUB-PROFILE-HOMEPAGE-README.md` into `IgorBenacchio/IgorBenacchio/README.md`.
 
 ## Recommended Links for Recruiters
 
@@ -47,6 +50,10 @@ Official portfolio repository:
 GitHub account:
 
 `https://github.com/IgorBenacchio`
+
+Ready-to-use GitHub profile homepage text:
+
+`https://github.com/IgorBenacchio/Igciber/blob/main/GITHUB-PROFILE-HOMEPAGE-README.md`
 
 ## Final Recruiter Verdict
 
