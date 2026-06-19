@@ -2,9 +2,22 @@
 
 This catalog turns the GitHub profile into a practical portfolio map for recruiters, hiring managers and technical interviewers.
 
-All project concepts are defensive, sanitized and safe for public review. They do not include credentials, real IPs, internal company data or offensive instructions.
+All project concepts and evidence projects are defensive, sanitized and safe for public review. They do not include credentials, real IPs, internal company data or offensive instructions.
 
-## Featured Projects
+## Implemented Evidence Projects
+
+These are the first recruiter-navigable project modules in this repository. They are designed to validate seniority through business context, architecture judgment, controls, governance and interview-ready evidence.
+
+| Project | Best-fit roles | Recruiter validation |
+| --- | --- | --- |
+| [Security by Design Framework](projects/security-by-design-framework/README.md) | Security Architect, GRC, Technology Architect | Risk-based architecture, control mapping, ADR/security opinion thinking and executive communication |
+| [Secure Azure Landing Zone](projects/secure-azure-landing-zone/README.md) | Cloud Security, IAM, Security Architect | Azure governance, RBAC, access review model, logging, policy baseline and exceptions |
+| [DevSecOps API Security Pipeline](projects/devsecops-api-security-pipeline/README.md) | DevSecOps, AppSec, Security Engineer | Secure SDLC, API security checklist, vulnerability prioritization and pipeline evidence flow |
+| [AI Governance Secure RAG](projects/ai-governance-secure-rag/README.md) | AI Governance, AI Security, Security Architect | AI inventory, secure RAG controls, model card, defensive evaluation and monitoring plan |
+
+For a fast review path, start with [Recruiter Evidence Index](RECRUITER-EVIDENCE-INDEX.md).
+
+## Featured Project Concepts
 
 | # | Project | Recruiter validation |
 | --- | --- | --- |
@@ -28,23 +41,24 @@ All project concepts are defensive, sanitized and safe for public review. They d
 ## How Recruiters Should Use This Catalog
 
 1. Select the target role.
-2. Pick 3 projects from the matching area.
-3. Validate whether each project has objective, business problem, scope, deliverables, frameworks and recruiter validation points.
-4. Use the interview questions in `INTERVIEW-GUIDE.md`.
-5. Confirm the material is defensive and sanitized.
+2. Open the [Recruiter Evidence Index](RECRUITER-EVIDENCE-INDEX.md).
+3. Pick 2 or 3 evidence projects from the implemented project section.
+4. Validate whether each project has objective, business problem, scope, deliverables, frameworks and recruiter validation points.
+5. Use the interview questions in `INTERVIEW-GUIDE.md`.
+6. Confirm the material is defensive and sanitized.
 
 ## Best Project Set by Hiring Track
 
 | Hiring track | Recommended project set |
 | --- | --- |
-| Security Architecture | 01, 02, 08, 14 |
-| Cloud Security | 02, 03, 04, 08 |
-| DevSecOps / AppSec | 03, 05, 06, 15 |
-| IAM / Zero Trust | 02, 04, 08, 14 |
-| GRC / Risk / Compliance | 01, 06, 08, 16 |
-| SOC / SecOps | 06, 07, 10, 15 |
-| AI Security / AI Governance | 09, 10, 11, 12 |
-| Data Governance / Automation | 12, 13, 15, 16 |
+| Security Architecture | 01, 02, 08, 14; implemented: Security by Design Framework, Secure Azure Landing Zone |
+| Cloud Security | 02, 03, 04, 08; implemented: Secure Azure Landing Zone, DevSecOps API Security Pipeline |
+| DevSecOps / AppSec | 03, 05, 06, 15; implemented: DevSecOps API Security Pipeline |
+| IAM / Zero Trust | 02, 04, 08, 14; implemented: Secure Azure Landing Zone |
+| GRC / Risk / Compliance | 01, 06, 08, 16; implemented: Security by Design Framework |
+| SOC / SecOps | 06, 07, 10, 15; implemented: DevSecOps API Security Pipeline, AI Governance Secure RAG |
+| AI Security / AI Governance | 09, 10, 11, 12; implemented: AI Governance Secure RAG |
+| Data Governance / Automation | 12, 13, 15, 16; implemented: AI Governance Secure RAG |
 
 ## Expected Recruiter Signal
 

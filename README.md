@@ -19,9 +19,10 @@
 
 | Start here | Purpose |
 |---|---|
+| [Recruiter Evidence Index](RECRUITER-EVIDENCE-INDEX.md) | 10-minute validation path with implemented project evidence |
 | [GitHub Profile Homepage README](GITHUB-PROFILE-HOMEPAGE-README.md) | Ready-to-use content for the GitHub account homepage |
 | [Multinational Recruiter Brief](MULTINATIONAL-RECRUITER-BRIEF.md) | One-page positioning for international opportunities |
-| [Project Catalog](PROJECTS.md) | 16 recruiter-ready project concepts by domain |
+| [Project Catalog](PROJECTS.md) | 16 recruiter-ready project concepts by domain plus implemented evidence projects |
 | [Skills Evidence Matrix](SKILLS-EVIDENCE-MATRIX.md) | Skills mapped to evidence and target roles |
 | [Case Studies](CASE-STUDIES.md) | Senior-level narratives for architecture, cloud, DevSecOps, IAM, GRC and AI security |
 | [Interview Guide](INTERVIEW-GUIDE.md) | Technical recruiter questions and scoring signals |
@@ -31,6 +32,17 @@
 
 Public GitHub account: [https://github.com/IgorBenacchio](https://github.com/IgorBenacchio)  
 Public recruiter-ready portfolio repository: [https://github.com/IgorBenacchio/Igciber](https://github.com/IgorBenacchio/Igciber)
+
+---
+
+## Implemented Evidence Projects
+
+| Project | Recruiter validation |
+|---|---|
+| [Security by Design Framework](projects/security-by-design-framework/README.md) | Security architecture, risk matrix, control mapping and executive decision support |
+| [Secure Azure Landing Zone](projects/secure-azure-landing-zone/README.md) | Cloud security, IAM, RBAC, logging, policy baseline and access review governance |
+| [DevSecOps API Security Pipeline](projects/devsecops-api-security-pipeline/README.md) | Secure SDLC, AppSec, API security, vulnerability triage and pipeline evidence |
+| [AI Governance Secure RAG](projects/ai-governance-secure-rag/README.md) | AI governance, secure RAG architecture, defensive evaluation and monitoring controls |
 
 ---
 
@@ -117,6 +129,7 @@ Perfil voltado para oportunidades nacionais e internacionais em Cybersecurity, S
 
 ## Profile Documents
 
+- [Recruiter Evidence Index](RECRUITER-EVIDENCE-INDEX.md)
 - [GitHub Profile Homepage README](GITHUB-PROFILE-HOMEPAGE-README.md)
 - [Multinational Recruiter Brief](MULTINATIONAL-RECRUITER-BRIEF.md)
 - [Project Catalog](PROJECTS.md)
